@@ -9,3 +9,11 @@ header {
   color:white;
   padding:15px 25px;
 }
+
+.footer {
+  text-align: center;
+  font-size:35px;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
